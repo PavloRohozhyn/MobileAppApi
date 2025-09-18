@@ -1,0 +1,19 @@
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <title>JSON placeholder for MobileApp</title>
+    </head>
+    <body>
+        <pre><code id="jsonDisplay"></code></pre>
+
+        <script>
+            const myJsonObject = {
+                name: "John Doe",
+                age: 30,
+                city: "New York"
+            };
+            const jsonString = JSON.stringify(myJsonObject, null, 2);
+            document.getElementById("jsonDisplay").textContent = jsonString;
+        </script>
+    </body>
+    </html>
