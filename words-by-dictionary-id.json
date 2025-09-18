@@ -1,1 +1,99 @@
-{"version": "very soon"}
+{
+  "data": [
+    {
+      "dict_id": 1001,
+      "word": "red",
+      "trans": "червоний"
+    },
+    {
+      "dict_id": 1001,
+      "word": "black",
+      "trans": "чорний"
+    },
+    {
+      "dict_id": 1001,
+      "word": "blue",
+      "trans": "синій"
+    },
+    {
+      "dict_id": 1001,
+      "word": "yellow",
+      "trans": "жовтий"
+    },
+    {
+      "dict_id": 2001,
+      "word": "winter",
+      "trans": "зима"
+    },
+    {
+      "dict_id": 2001,
+      "word": "summer",
+      "trans": "літо"
+    },
+    {
+      "dict_id": 2001,
+      "word": "autum",
+      "trans": "осінь"
+    },
+    {
+      "dict_id": 2001,
+      "word": "spring",
+      "trans": "весна"
+    },
+    {
+      "dict_id": 3001,
+      "word": "speak",
+      "trans": "говорити"
+    },
+    {
+      "dict_id": 3001,
+      "word": "write",
+      "trans": "писати"
+    },
+    {
+      "dict_id": 3001,
+      "word": "read",
+      "trans": "читати"
+    },
+    {
+      "dict_id": 4001,
+      "word": "good",
+      "trans": "добрий"
+    },
+    {
+      "dict_id": 4001,
+      "word": "bad",
+      "trans": "поганий"
+    },
+    {
+      "dict_id": 4001,
+      "word": "big",
+      "trans": "великий"
+    },
+    {
+      "dict_id": 4001,
+      "word": "small",
+      "trans": "малий"
+    },
+    {
+      "dict_id": 4001,
+      "word": "new",
+      "trans": "новий"
+    },
+    {
+      "dict_id": 4001,
+      "word": "old",
+      "trans": "старий"
+    },
+    {
+      "dict_id": 4001,
+      "word": "clean",
+      "trans": "чистий"
+    },
+    {
+      "dict_id": 4001,
+      "word": "dirty",
+      "trans": "брудний"
+    }
+  ]
+}
