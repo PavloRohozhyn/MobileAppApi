@@ -79,21 +79,6 @@
       "dict_id": 4001,
       "word": "new",
       "trans": "новий"
-    },
-    {
-      "dict_id": 4001,
-      "word": "old",
-      "trans": "старий"
-    },
-    {
-      "dict_id": 4001,
-      "word": "clean",
-      "trans": "чистий"
-    },
-    {
-      "dict_id": 4001,
-      "word": "dirty",
-      "trans": "брудний"
     }
   ]
 }
