@@ -57,28 +57,28 @@
     },
     {
       "dict_id": 4001,
-      "word": "good",
-      "trans": "добрий"
+      "word": "regnskap",
+      "trans": "бухгалтерський облік"
     },
     {
       "dict_id": 4001,
-      "word": "bad",
-      "trans": "поганий"
+      "word": "følese av",
+      "trans": "відчуття"
     },
     {
       "dict_id": 4001,
-      "word": "big",
-      "trans": "великий"
+      "word": "Я очікую",
+      "trans": "jeg regner med"
     },
     {
       "dict_id": 4001,
-      "word": "small",
-      "trans": "малий"
+      "word": "har lyst til",
+      "trans": "хотів би"
     },
     {
       "dict_id": 4001,
-      "word": "new",
-      "trans": "новий"
+      "word": "å passe på",
+      "trans": "піклуватися"
     }
   ]
 }
