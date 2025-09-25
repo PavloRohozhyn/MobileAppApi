@@ -79,6 +79,31 @@
       "dict_id": 4001,
       "word": "å passe på",
       "trans": "піклуватися"
+    },
+    {
+      "dict_id": 4001,
+      "word": "samarbeid",
+      "trans": "співпраця"
+    },
+    {
+      "dict_id": 4001,
+      "word": "finne ut",
+      "trans": "дізнатися"
+    },
+    {
+      "dict_id": 4001,
+      "word": "bygninger",
+      "trans": "будівлі"
+    },
+    {
+      "dict_id": 4001,
+      "word": "fylle",
+      "trans": "заповнити"
+    },
+    {
+      "dict_id": 4001,
+      "word": "regner",
+      "trans": "дощ"
     }
   ]
 }
