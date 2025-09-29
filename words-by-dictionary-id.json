@@ -2,108 +2,23 @@
   "data": [
     {
       "dict_id": 1001,
-      "word": "red",
-      "trans": "червоний"
+      "word": "fortsett",
+      "trans": "продовжувати"
     },
     {
       "dict_id": 1001,
-      "word": "black",
-      "trans": "чорний"
+      "word": "aldri",
+      "trans": "ніколи"
     },
     {
       "dict_id": 1001,
-      "word": "blue",
-      "trans": "синій"
+      "word": "hurtighet",
+      "trans": "швидкість"
     },
     {
       "dict_id": 1001,
-      "word": "yellow",
-      "trans": "жовтий"
-    },
-    {
-      "dict_id": 2001,
-      "word": "winter",
-      "trans": "зима"
-    },
-    {
-      "dict_id": 2001,
-      "word": "summer",
-      "trans": "літо"
-    },
-    {
-      "dict_id": 2001,
-      "word": "autum",
-      "trans": "осінь"
-    },
-    {
-      "dict_id": 2001,
-      "word": "spring",
-      "trans": "весна"
-    },
-    {
-      "dict_id": 3001,
-      "word": "speak",
-      "trans": "говорити"
-    },
-    {
-      "dict_id": 3001,
-      "word": "write",
-      "trans": "писати"
-    },
-    {
-      "dict_id": 3001,
-      "word": "read",
-      "trans": "читати"
-    },
-    {
-      "dict_id": 4001,
-      "word": "regnskap",
-      "trans": "бухгалтерський облік"
-    },
-    {
-      "dict_id": 4001,
-      "word": "følese av",
-      "trans": "відчуття"
-    },
-    {
-      "dict_id": 4001,
-      "word": "jeg regner med",
-      "trans": "Я очікую"
-    },
-    {
-      "dict_id": 4001,
-      "word": "har lyst til",
-      "trans": "хотів би"
-    },
-    {
-      "dict_id": 4001,
-      "word": "å passe på",
-      "trans": "піклуватися"
-    },
-    {
-      "dict_id": 4001,
-      "word": "samarbeid",
-      "trans": "співпраця"
-    },
-    {
-      "dict_id": 4001,
-      "word": "finne ut",
-      "trans": "дізнатися"
-    },
-    {
-      "dict_id": 4001,
-      "word": "bygninger",
-      "trans": "будівлі"
-    },
-    {
-      "dict_id": 4001,
-      "word": "fylle",
-      "trans": "заповнити"
-    },
-    {
-      "dict_id": 4001,
-      "word": "regner",
-      "trans": "дощ"
+      "word": "bonde",
+      "trans": "фермер"
     }
   ]
 }
