@@ -2,19 +2,11 @@
   "data": [
     {
       "id": 1001,
-      "title": "Colors"
+      "title": "Ord"
     },
     {
       "id": 2001,
-      "title": "Seasons"
-    },
-    {
-      "id": 3001,
-      "title": "Verbs"
-    },
-    {
-      "id": 4001,
-      "title": "Adjective"
+      "title": "Spørrende ord"
     }
   ]
 }
