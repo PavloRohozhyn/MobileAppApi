@@ -19,6 +19,11 @@
       "dict_id": 1001,
       "word": "bonde",
       "trans": "фермер"
+    },
+    {
+      "dict_id": 1001,
+      "word": "nærheten",
+      "trans": "поблизу"
     }
   ]
 }
