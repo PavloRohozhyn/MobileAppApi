@@ -24,6 +24,15 @@
       "dict_id": 1001,
       "word": "nærheten",
       "trans": "поблизу"
+    },    {
+      "dict_id": 2001,
+      "word": "Hvem",
+      "trans": "Хто, Кого"
+    },
+    {
+      "dict_id": 2001,
+      "word": "Hvordan",
+      "trans": "як"
     }
   ]
 }
